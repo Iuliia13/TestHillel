@@ -1,0 +1,23 @@
+﻿1 Open the https://twitter.com
+11 The web site is opened. On the home page 2 windows are displayed. A first window for registered users with button "Log In". A second window for new users with an inscription "New to Twitter? Sign up" with 3 empty field and the button "Sign up for Twitter".
+2 In a second window for the new user in the first field enter the full name "Iuliia Zheliaskova", in the second field  enter an email "julia13miami@gmail.com", in the third field  enter the password "julia15031189". Press the button "Sign up for Twitter". 
+22 Redirect on new page with the fields filled us and with the button "Sign up".
+3 Press the button "Sign up".
+33 Redirect on new page with an inscription "Enter your phone". Page contains drop-down list with countries, and field for enter your phone number, and the button "Next".
+4 In drop-down list choose a country "Ukraine". In field "phone number" enter "+380630505005". Press the button "Next".
+44 Redirect on new page with an inscription "Your account has been locked" and with text "What happened? Your account appears to have exhibited automated behavior that violates the Twitter Rules. To unlock your account, please complete the steps below and confirm that you are the valid account owner. What you can do: To unlock your account, you must do the following: Verify your phone number". Under the text of the button "Start".
+5 Press the button "Start".
+55 Redirect on new page with an inscription "Add a phone number" and with text "Enter the phone number that you would like to associate with your Twitter account. We will send you an SMS with a verification code. SMS fees may apply.", and with field to enter the phone number. Under the field of the button "Send code".
+6 Enter "+380630505005" in field "phone number". Press the button "Send code".
+66 Redirect on new page with an inscription "Enter verification code" and with field for entering the code and with the button "Submit". Received SMS code "293889".
+7 Enter SMS code "293889" in field and press the button "Submit".
+77 Redirect on new page with an inscription "Account unlocked" and with the button "Continue for Twitter".
+8 Press the button "Continue for Twitter".
+88 User must be redirected to the page with already created profile. The registration completed.
+
+
+
+
+
+
+
